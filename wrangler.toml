@@ -1,5 +1,5 @@
 # wrangler.toml
-name = "tron-usdt-transfer-bot"
+name = "tron-transfer-worker-bot1"
 compatibility_date = "2025-11-14"
 compatibility_flags = ["nodejs_compat"]
 main = "index.js"

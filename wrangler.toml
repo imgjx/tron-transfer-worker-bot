@@ -3,7 +3,7 @@ compatibility_date = "2025-11-14"
 compatibility_flags = ["nodejs_compat"]
 
 [[dependencies]]
-package = "@tronweb3/tronweb"
+package = "tronweb"
 
 [triggers]
 crons = ["*/10 * * * *"]

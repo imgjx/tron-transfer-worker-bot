@@ -1,16 +1,16 @@
 {
   "name": "tron-usdt-transfer-bot",
   "version": "1.0.0",
-  "description": "喵喵喵",
+  "description": "TRON USDT Auto Transfer Bot",
   "main": "index.js",
   "scripts": {
     "deploy": "wrangler deploy",
     "dev": "wrangler dev"
   },
   "dependencies": {
-    "tronweb": "^4.2.0"
+    "tronweb": "^4.4.0"
   },
   "devDependencies": {
-    "wrangler": "^2.20.0"
+    "wrangler": "^3.0.0"
   }
 }

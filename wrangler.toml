@@ -1,8 +1,10 @@
 name = "tron-usdt-transfer-bot"
 compatibility_date = "2025-11-14"
+compatibility_flags = ["nodejs_compat"]
+main = "index.js"
 
-[[dependencies]]
-package = "tronweb"
+[dependencies]
+tronweb = "^4.4.0"
 
 [triggers]
 crons = ["*/10 * * * *"]

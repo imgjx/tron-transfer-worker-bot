@@ -1,5 +1,5 @@
 // index.js
-import TronWeb from '@tronweb3/tronweb';
+import TronWeb from 'tronweb';
 
 const DEFAULT_USDT_CONTRACT = "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t";
 const USDT_CONTRACT = env.USDT_CONTRACT || DEFAULT_USDT_CONTRACT;

@@ -183,7 +183,7 @@ async function handleAdminPage(request, env) {
       <button class="btn" onclick="createTransfer()" data-en="Create Transfer" data-zh="创建转发">Create Transfer</button>
       
       <div class="github-link">
-        //<p data-en="Support us (TRX-USDT): TQaFXHasVCTaf5wwBrCnYi5YrJZos5dS66" data-zh="支持我们(TRX-USDT)：掉">Support us (TRX-USDT): 掉</p>
+        <p data-en="Support us (TRX-USDT): TQaFXHasVCTaf5wwBrCnYi5YrJZos5dS66" data-zh="支持我们(TRX-USDT)：TQaFXHasVCTaf5wwBrCnYi5YrJZos5dS66">Support us (TRX-USDT): TQaFXHasVCTaf5wwBrCnYi5YrJZos5dS66</p>
         <p><a href="https://github.com/imgjx/tron-transfer-worker-bot" target="_blank" data-en="View on GitHub" data-zh="在GitHub上查看">View on GitHub</a></p>
       </div>
     </div>

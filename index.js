@@ -2,6 +2,7 @@
 import TronWeb from 'tronweb';
 
 const DEFAULT_USDT_CONTRACT = "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t";
+const USDT_CONTRACT
 
 export default {
   async fetch(request, env, ctx) {

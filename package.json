@@ -8,7 +8,7 @@
     "dev": "wrangler dev"
   },
   "dependencies": {
-    "@tronweb3/tronweb": "^4.2.0"
+    "tronweb": "^4.2.0"
   },
   "devDependencies": {
     "wrangler": "^3.0.0"

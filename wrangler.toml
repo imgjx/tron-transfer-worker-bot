@@ -1,0 +1,9 @@
+name = "tron-usdt-transfer-bot"
+compatibility_date = "2025-11-14"
+compatibility_flags = ["nodejs_compat"]
+
+[[dependencies]]
+package = "@tronweb3/tronweb"
+
+[triggers]
+crons = ["*/10 * * * *"]
